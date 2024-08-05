@@ -11,3 +11,7 @@ Este projeto é a implementação da seção "Home" de uma landing page chamada 
 - **JavaScript**: Funcionalidades interativas.
 - **React**: Biblioteca JavaScript para construção de interfaces de usuário.
 - **Bootstrap**: Framework CSS para desenvolvimento responsivo.
+
+## Visualização
+
+Você pode visualizar o projeto em funcionamento [aqui](https://easybank-landing-page-topaz-nu.vercel.app/).
