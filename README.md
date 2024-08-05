@@ -1,5 +1,7 @@
 # Easybank Landing Page - Home Section
 
+![Screenshot do Projeto](./public/images/screenshot.png)
+
 ## Descrição
 
 Este projeto é a implementação da seção "Home" de uma landing page chamada Easybank, baseada em um desafio do Frontend Mentor. A seção inicial apresenta o Easybank de forma atrativa e informativa.
